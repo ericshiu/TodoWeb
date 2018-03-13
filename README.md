@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ericshiu/TodoWeb/master/img.jpg" width="200" height="150" />
+<img src="https://raw.githubusercontent.com/ericshiu/TodoWeb/master/img.jpg" width="800" height="600" />
 
 
 
