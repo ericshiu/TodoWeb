@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/ericshiu/TodoWeb/master/img.jpg" width="200" height="150" />
+
+
+
 - **npm i webpack vue vue-loader**
 - **npm i css-loader vue-template-compiler**
 - **npm i style-loader url-loader file-loader**
@@ -13,3 +17,4 @@
 
 - **npm info webpack查看版本**
 - **使用版本4.1.1**
+
